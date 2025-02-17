@@ -33,7 +33,7 @@ If you prefer to modify the executable manually, follow these steps:
 
 ## **Xdelta Patch (Recommended)**  
 For an easier solution, use the provided **Xdelta patch**.
-The patch can be found in the repository as `pirates-d3d9-hook.xdelta`.
+The patch can be found in the repository as [pirates-d3d9-hook.xdelta](https://github.com/Millefeuille42/pirates-d3d9-hook/blob/master/pirates-d3d9-hook.xdelta).
 
 You can find instructions about how to use Xdelta as well as download links on [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Xdelta)
 
