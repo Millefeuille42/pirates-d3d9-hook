@@ -5,7 +5,7 @@ This patch for *Sid Meier's Pirates!* (2004) modifies the game executable to all
 ## **How It Works**  
 By default, the exe runs the game in a separate process, this process loads `d3d9.dll` from the system directory. This patch modifies the executable to search for `.\d3d9.dll` instead, allowing the use of custom Direct3D 9 implementations.  
 
-## **Disclaimer **
+## **Disclaimer**
 To prevent any copyright infringement issues, I do not provide the unencrypted or patched executable, you have to get it on your own means.
 This has been tested on the steam release of the game. I am not sure that the Xdelta patch works on other releases, but the manual patch should work.
 
